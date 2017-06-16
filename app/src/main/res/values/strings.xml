@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Btconverstaion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sending_message">訊息傳送port</string>
+	<string name="sending_port">發送的port</string>
+	<string name="message">文字訊息</string>
+	<string name="port_receive">接收的port</string>
+	<string name="pic_sending_IP">圖片傳送IP</string>
+	<string name="pic_send_port">圖片傳送port</string>
+</resources>
